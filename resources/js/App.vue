@@ -1,4 +1,5 @@
 <template>
-    quasar
-    <q-btn color="primary" icon="check" label="OK" @click="onClick" />
+   <div class="div">
+        <router-view />
+   </div>
 </template>
